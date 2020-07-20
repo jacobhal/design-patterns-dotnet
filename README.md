@@ -4,6 +4,9 @@ Repository for a C# and .NET design patterns Udemy course. Navigate to different
 
 Design patterns in general are architectural approaches for programming. In this section, the most fundamental general design principle for object oriented programming will be covered before jumping into specific design patterns.
 
+## Certificate
+TODO
+
 These design patterns will be covered:
 
 ## Creational
@@ -36,6 +39,3 @@ These design patterns will be covered:
 * Strategy
 * Template Method
 * Visitor
-
-## Certificate
-TODO
