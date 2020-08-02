@@ -38,6 +38,3 @@ These design patterns will be covered:
 * Strategy
 * Template Method
 * Visitor
-
-## Certificate
-TODO
