@@ -1,0 +1,12 @@
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns.deps.json
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns.runtimeconfig.json
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns.runtimeconfig.dev.json
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns.dll
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.0/DesignPatterns.pdb
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.csprojAssemblyReference.cache
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.AssemblyInfo.cs
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.dll
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.pdb
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/Jacob/Github/design-patterns-dotnet/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.0/DesignPatterns.genruntimeconfig.cache
