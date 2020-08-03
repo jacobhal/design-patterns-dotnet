@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{9C1D0DD6-BEDF-4911-B036-2F5BE407632C}|Default">
   <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/DependencyInversionPrinciple.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/OpenClosedPrinciple.cs">
     <Files>
-      <File FileName="DesignPatterns/OpenClosedPrinciple (3rd copy).cs" Line="28" Column="1" />
+      <File FileName="DesignPatterns/SingleResponsibilityPrinciple.cs" Line="64" Column="7" />
+      <File FileName="DesignPatterns/OpenClosedPrinciple.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPatterns" expanded="True">
             <Node name="DesignPatterns" expanded="True">
-              <Node name="DependencyInversionPrinciple.cs" selected="True" />
+              <Node name="OpenClosedPrinciple.cs" selected="True" />
             </Node>
           </Node>
         </State>

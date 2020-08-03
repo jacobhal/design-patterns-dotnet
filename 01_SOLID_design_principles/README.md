@@ -9,6 +9,34 @@ We want the persistence of journals to be separate from the core journal functio
 #### Solution
 We create a Persistence class for this purpose.
 
+#### Before
+```cs
+
+interface IJournal {
+    int AddEntry(string text);
+    void RemoveEntry(int index);
+    string ToString();
+    
+    void Save(string filename, bool overwrite = false);
+    void Load(string filename);
+}
+```
+
+#### After
+```cs
+
+interface IJournal {
+    int AddEntry(string text);
+    void RemoveEntry(int index);
+    string ToString();
+}
+
+interface IPersistence {
+    void SaveToFile(Journal j, string fileName, bool overwrite = false);
+    Journal LoadFromFile(string fileName);
+} 
+```
+
 ## Open-Closed Principle
 The Open-Closed Principle states that classes should be open for extension but closed for modification. This means that we should be able to extend the functionality but never have to modify code that is already there.
 
